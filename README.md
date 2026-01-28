@@ -1,4 +1,4 @@
-Ecomerce feito em django que foi pausado por
+Backend de ecomerce incompleto feito em django que foi pausado por
 eu não conseguir colocar o sistema de pagamento
 pois sou menor.
 Foi consumido e testado so uma parte,
